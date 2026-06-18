@@ -1,2 +1,2 @@
 # myrepo
-#like a trail prject 
+#like a trail project 
